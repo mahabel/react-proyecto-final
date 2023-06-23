@@ -6,7 +6,7 @@ export default function home() {
     
     <div>
       
-      <h2>Home</h2>
+      
       <PortfolioContainer/>
       </div>
   );
