@@ -16,6 +16,7 @@ import Auth from "./components/pages/auth";
 import NoMatch from "./components/pages/no-match";
 import Icons from "./helpers/icons";
 
+
 const App = () => {
   Icons();
   const [loggedInStatus, setLoggedInStatus] = useState("NOT_LOGGED_IN");
